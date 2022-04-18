@@ -1,4 +1,6 @@
 phone_sync_dir/
+social_rulesets/
+rules/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
